@@ -83,3 +83,9 @@ Another challenge occurred when one question produced an incomplete answer. The 
 ## Conclusion
 
 The prototype successfully demonstrates semantic search using FAISS and answer generation using a Groq LLM. The Gradio interface provides a simple way for users to ask questions about the meeting information.
+
+## References & Publications
+
+For a detailed walkthrough and in-depth explanation of this project, check out the published paper on Medium:
+
+Article/Paper: (https://medium.com/@muhammadmusabkhan2008/optimizing-real-time-domain-specific-knowledge-retrieval-using-dense-vector-embeddings-and-flat-l2-331a6ea8069f?sharedUserId=muhammadmusabkhan2008)
